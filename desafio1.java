@@ -1,7 +1,14 @@
-//Hello word em Java
+public class Desafio1 {
+    public static int somaArray(int[] numeros) {
+        int soma = 0;
+        for (int num : numeros) {
+            soma += num;
+        }
+        return soma;
+    }
 
-public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello word");
+        int[] numeros = {1, 2, 3, 4, 5};
+        System.out.println("Soma do array: " + somaArray(numeros));
     }
 }

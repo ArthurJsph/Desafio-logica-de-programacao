@@ -1,118 +1,134 @@
-# 100 Desafios de Lógica de Programação em Java
+# Desafios de Java e React para Desenvolvedores Full Stack
 
-Este repositório contém **100 desafios de lógica de programação em Java**, divididos em três níveis de dificuldade: **Iniciante**, **Intermediário** e **Avançado**. O objetivo é ajudar você a praticar e melhorar suas habilidades de programação em Java, resolvendo um desafio por dia.
-
----
-
-## Nível Iniciante (33 Desafios)
-
-1. **Hello World**: Escreva um programa que imprima "Hello, World!" na tela.
-2. **Soma de Dois Números**: Escreva um programa que receba dois números e imprima a soma deles.
-3. **Verificação de Par ou Ímpar**: Escreva um programa que verifique se um número é par ou ímpar.
-4. **Calculadora Simples**: Crie uma calculadora que realize operações básicas (+, -, *, /) com dois números.
-5. **Fatorial**: Escreva um programa que calcule o fatorial de um número.
-6. **Tabuada**: Escreva um programa que exiba a tabuada de um número fornecido pelo usuário.
-7. **Conversor de Temperatura**: Crie um programa que converta temperaturas de Celsius para Fahrenheit e vice-versa.
-8. **Verificação de Palíndromo**: Escreva um programa que verifique se uma palavra é um palíndromo.
-9. **Contagem de Vogais**: Escreva um programa que conte o número de vogais em uma string.
-10. **Números Primos**: Escreva um programa que verifique se um número é primo.
-11. **Média de Números**: Escreva um programa que calcule a média de uma lista de números.
-12. **Contagem de Dígitos**: Escreva um programa que conte o número de dígitos em um número.
-13. **Verificação de Ano Bissexto**: Escreva um programa que verifique se um ano é bissexto.
-14. **Soma de Dígitos**: Escreva um programa que some os dígitos de um número.
-15. **Conversor de Base**: Escreva um programa que converta um número de decimal para binário.
-16. **Números de Fibonacci**: Escreva um programa que gere os primeiros N números da sequência de Fibonacci.
-17. **Verificação de Número Positivo/Negativo**: Escreva um programa que verifique se um número é positivo, negativo ou zero.
-18. **Maior entre Três Números**: Escreva um programa que encontre o maior entre três números.
-19. **Inversão de String**: Escreva um programa que inverta uma string.
-20. **Verificação de Número Perfeito**: Escreva um programa que verifique se um número é perfeito (soma dos divisores é igual ao número).
-21. **Gerador de Números Aleatórios**: Escreva um programa que gere números aleatórios dentro de um intervalo.
-22. **Verificação de Número Armstrong**: Escreva um programa que verifique se um número é um número de Armstrong.
-23. **Conversor de Horas**: Escreva um programa que converta horas em minutos e segundos.
-24. **Verificação de Número Palíndromo**: Escreva um programa que verifique se um número é um palíndromo.
-25. **Soma de Números Pares**: Escreva um programa que some todos os números pares em um intervalo.
-26. **Verificação de Número Primo em Intervalo**: Escreva um programa que liste todos os números primos em um intervalo.
-27. **Cálculo de Potência**: Escreva um programa que calcule a potência de um número.
-28. **Verificação de Número Positivo/Negativo/Zero**: Escreva um programa que verifique se um número é positivo, negativo ou zero.
-29. **Conversor de Moedas**: Escreva um programa que converta valores entre diferentes moedas.
-30. **Verificação de Número de Kaprekar**: Escreva um programa que verifique se um número é um número de Kaprekar.
-31. **Cálculo de Área de Figuras Geométricas**: Escreva um programa que calcule a área de um círculo, quadrado ou triângulo.
-32. **Verificação de Número de Harshad**: Escreva um programa que verifique se um número é um número de Harshad.
-33. **Simulação de Dado**: Escreva um programa que simule o lançamento de um dado.
+Bem-vindo ao repositório de desafios de Java e React! Aqui você encontrará uma lista de desafios para praticar e aprimorar suas habilidades como desenvolvedor full stack, com foco em **Java (backend)** e **React (frontend)**.
 
 ---
 
-## Nível Intermediário (34 Desafios)
-
-34. **Fibonacci Recursivo**: Escreva um programa que gere a sequência de Fibonacci usando recursão.
-35. **Ordenação de Array**: Implemente um algoritmo de ordenação (como Bubble Sort) para ordenar um array de números.
-36. **Busca Binária**: Implemente um algoritmo de busca binária em um array ordenado.
-37. **Manipulação de Strings**: Escreva um programa que remova todos os espaços em branco de uma string.
-38. **Calculadora de IMC**: Crie uma calculadora de Índice de Massa Corporal (IMC) que receba peso e altura e retorne o IMC.
-39. **Jogo da Forca**: Implemente uma versão simples do jogo da forca.
-40. **Conversor de Moedas**: Crie um programa que converta valores entre diferentes moedas (ex: Real para Dólar).
-41. **Validador de CPF**: Escreva um programa que valide um número de CPF.
-42. **Simulação de Caixa Eletrônico**: Implemente uma simulação de caixa eletrônico com operações de saque, depósito e consulta de saldo.
-43. **Gerador de Senhas**: Crie um programa que gere senhas aleatórias com base em critérios específicos.
-44. **Pilha (Stack)**: Implemente uma estrutura de dados de pilha com operações de push e pop.
-45. **Fila (Queue)**: Implemente uma estrutura de dados de fila com operações de enqueue e dequeue.
-46. **Lista Encadeada**: Implemente uma lista encadeada simples com operações de inserção e remoção.
-47. **Calculadora de Expressões**: Crie uma calculadora que avalie expressões matemáticas simples.
-48. **Simulação de Jogo de Cartas**: Implemente uma simulação básica de um jogo de cartas, como Blackjack.
-49. **Verificação de Anagramas**: Escreva um programa que verifique se duas strings são anagramas.
-50. **Cálculo de MDC**: Escreva um programa que calcule o máximo divisor comum (MDC) de dois números.
-51. **Cálculo de MMC**: Escreva um programa que calcule o mínimo múltiplo comum (MMC) de dois números.
-52. **Simulação de Jogo de Dados**: Implemente uma simulação de um jogo de dados com dois jogadores.
-53. **Verificação de Número Feliz**: Escreva um programa que verifique se um número é um número feliz.
-54. **Simulação de Jogo de Pedra, Papel e Tesoura**: Implemente uma simulação do jogo Pedra, Papel e Tesoura.
-55. **Cálculo de Juros Compostos**: Escreva um programa que calcule juros compostos.
-56. **Simulação de Jogo de Roleta**: Implemente uma simulação básica de um jogo de roleta.
-57. **Verificação de Número de Smith**: Escreva um programa que verifique se um número é um número de Smith.
-58. **Simulação de Jogo de Batalha Naval**: Implemente uma simulação básica do jogo Batalha Naval.
-59. **Cálculo de Distância entre Dois Pontos**: Escreva um programa que calcule a distância entre dois pontos em um plano cartesiano.
-60. **Simulação de Jogo de Adivinhação**: Implemente um jogo onde o usuário tenta adivinhar um número gerado aleatoriamente.
-61. **Verificação de Número de Keith**: Escreva um programa que verifique se um número é um número de Keith.
-62. **Simulação de Jogo de Sudoku**: Implemente uma simulação básica de um jogo de Sudoku.
-63. **Cálculo de Raízes de Equação Quadrática**: Escreva um programa que calcule as raízes de uma equação quadrática.
-64. **Simulação de Jogo de Xadrez**: Implemente uma simulação básica de um jogo de xadrez.
-65. **Verificação de Número de Lychrel**: Escreva um programa que verifique se um número é um número de Lychrel.
-66. **Simulação de Jogo de Damas**: Implemente uma simulação básica de um jogo de damas.
-67. **Cálculo de Volume de Figuras Geométricas**: Escreva um programa que calcule o volume de um cubo, esfera ou cilindro.
+## Índice
+1. [Desafios de Java (Backend)](#desafios-de-java-backend)
+   - [Básicos](#básicos)
+   - [Intermediários](#intermediários)
+   - [Avançados](#avançados)
+2. [Desafios de React (Frontend)](#desafios-de-react-frontend)
+   - [Básicos](#básicos-1)
+   - [Intermediários](#intermediários-1)
+   - [Avançados](#avançados-1)
+3. [Desafios de Integração Full Stack](#desafios-de-integração-full-stack)
+4. [Como Contribuir](#como-contribuir)
+5. [Recursos Úteis](#recursos-úteis)
 
 ---
 
-## Nível Avançado (33 Desafios)
+## Desafios de Java (Backend)
 
-68. **Algoritmo de Dijkstra**: Implemente o algoritmo de Dijkstra para encontrar o caminho mais curto em um grafo.
-69. **Árvore Binária de Busca**: Implemente uma árvore binária de busca com operações de inserção, remoção e busca.
-70. **Simulação de Jogo de Xadrez**: Crie uma simulação básica de um jogo de xadrez com movimentos válidos.
-71. **Compressão de Dados**: Implemente um algoritmo simples de compressão de dados, como o Run-Length Encoding.
-72. **Simulação de Sistema de Arquivos**: Crie uma simulação de um sistema de arquivos básico com operações de criação, leitura e exclusão de arquivos.
-73. **Algoritmo de Criptografia**: Implemente um algoritmo de criptografia simples, como o Cifra de César.
-74. **Simulação de Rede Neural**: Crie uma simulação básica de uma rede neural com uma única camada.
-75. **Jogo da Vida de Conway**: Implemente o Jogo da Vida de Conway, um autômato celular.
-76. **Simulação de Banco de Dados**: Crie uma simulação de um banco de dados simples com operações CRUD (Create, Read, Update, Delete).
-77. **Algoritmo de Machine Learning**: Implemente um algoritmo simples de machine learning, como regressão linear.
-78. **Algoritmo de Kruskal**: Implemente o algoritmo de Kruskal para encontrar a árvore geradora mínima em um grafo.
-79. **Algoritmo de Prim**: Implemente o algoritmo de Prim para encontrar a árvore geradora mínima em um grafo.
-80. **Simulação de Sistema Operacional**: Crie uma simulação básica de um sistema operacional com gerenciamento de processos.
-81. **Algoritmo de Compressão de Imagem**: Implemente um algoritmo simples de compressão de imagem, como o JPEG.
-82. **Simulação de Banco de Dados Distribuído**: Crie uma simulação de um banco de dados distribuído com replicação de dados.
-83. **Algoritmo de Huffman**: Implemente o algoritmo de Huffman para compressão de dados.
-84. **Simulação de Sistema de Recomendação**: Crie uma simulação básica de um sistema de recomendação.
-85. **Algoritmo de Aprendizado por Reforço**: Implemente um algoritmo simples de aprendizado por reforço.
-86. **Simulação de Sistema de Gerenciamento de Memória**: Crie uma simulação de um sistema de gerenciamento de memória.
-87. **Algoritmo de Busca em Profundidade (DFS)**: Implemente o algoritmo de busca em profundidade em um grafo.
-88. **Algoritmo de Busca em Largura (BFS)**: Implemente o algoritmo de busca em largura em um grafo.
-89. **Simulação de Sistema de Gerenciamento de Arquivos**: Crie uma simulação de um sistema de gerenciamento de arquivos.
-90. **Algoritmo de Ordenação Rápida (QuickSort)**: Implemente o algoritmo de ordenação QuickSort.
-91. **Simulação de Sistema de Gerenciamento de Processos**: Crie uma simulação de um sistema de gerenciamento de processos.
-92. **Algoritmo de Ordenação por Mesclagem (MergeSort)**: Implemente o algoritmo de ordenação MergeSort.
-93. **Simulação de Sistema de Gerenciamento de Dispositivos**: Crie uma simulação de um sistema de gerenciamento de dispositivos.
-94. **Algoritmo de Ordenação por Inserção (InsertionSort)**: Implemente o algoritmo de ordenação InsertionSort.
-95. **Simulação de Sistema de Gerenciamento de Redes**: Crie uma simulação de um sistema de gerenciamento de redes.
-96. **Algoritmo de Ordenação por Seleção (SelectionSort)**: Implemente o algoritmo de ordenação SelectionSort.
-97. **Simulação de Sistema de Gerenciamento de Segurança**: Crie uma simulação de um sistema de gerenciamento de segurança.
-98. **Algoritmo de Ordenação por Bolha (BubbleSort)**: Implemente o algoritmo de ordenação BubbleSort.
-99. **Simulação de Sistema de Gerenciamento de Energia**: Crie uma simulação de um sistema de gerenciamento de energia.
-100. **Algoritmo de Ordenação por Contagem (CountingSort)**: Implemente o algoritmo de ordenação CountingSort.
+### Básicos
+1. **Soma de Array**: Crie um método que recebe um array de inteiros e retorna a soma de todos os elementos.
+2. **Média de Array**: Crie um método que calcula a média dos valores de um array de números.
+3. **Maior Valor**: Encontre o maior valor em um array de inteiros.
+4. **Menor Valor**: Encontre o menor valor em um array de inteiros.
+5. **Inverter Array**: Inverta a ordem dos elementos em um array.
+6. **Contar Ocorrências**: Conte quantas vezes um determinado valor aparece em um array.
+7. **Remover Duplicatas**: Remova valores duplicados de um array.
+8. **Ordenar Array**: Implemente um algoritmo de ordenação (como Bubble Sort) para ordenar um array.
+9. **Busca Binária**: Implemente a busca binária em um array ordenado.
+10. **Fatorial**: Calcule o fatorial de um número usando recursão.
+
+### Intermediários
+11. **Pilha (Stack)**: Implemente uma pilha usando arrays.
+12. **Fila (Queue)**: Implemente uma fila usando arrays.
+13. **Lista Encadeada**: Implemente uma lista encadeada simples.
+14. **Árvore Binária**: Implemente uma árvore binária e métodos para inserção e busca.
+15. **Busca em Profundidade (DFS)**: Implemente DFS em uma árvore binária.
+16. **Busca em Largura (BFS)**: Implemente BFS em uma árvore binária.
+17. **Heap**: Implemente um heap mínimo.
+18. **HashTable**: Implemente uma tabela de hash simples.
+19. **Gráfico**: Implemente um gráfico usando lista de adjacências.
+20. **Dijkstra**: Implemente o algoritmo de Dijkstra para encontrar o caminho mais curto.
+
+### Avançados
+21. **Singleton Pattern**: Implemente o padrão de design Singleton.
+22. **Factory Pattern**: Implemente o padrão de design Factory.
+23. **Observer Pattern**: Implemente o padrão de design Observer.
+24. **Decorator Pattern**: Implemente o padrão de design Decorator.
+25. **Strategy Pattern**: Implemente o padrão de design Strategy.
+26. **Command Pattern**: Implemente o padrão de design Command.
+27. **Adapter Pattern**: Implemente o padrão de design Adapter.
+28. **Proxy Pattern**: Implemente o padrão de design Proxy.
+29. **Composite Pattern**: Implemente o padrão de design Composite.
+30. **State Pattern**: Implemente o padrão de design State.
+
+---
+
+## Desafios de React (Frontend)
+
+### Básicos
+1. **Hello World**: Crie um componente React que exiba "Hello, World!".
+2. **Componente Funcional**: Crie um componente funcional que exiba seu nome.
+3. **Componente de Classe**: Crie um componente de classe que exiba uma mensagem.
+4. **Props**: Crie um componente que receba `props` e exiba dados dinâmicos.
+5. **Estado Simples**: Crie um componente com estado que altere o texto ao clicar em um botão.
+6. **Renderização Condicional**: Exiba um componente condicionalmente com base em um estado.
+7. **Lista de Itens**: Renderize uma lista de itens usando `map`.
+8. **Formulário Simples**: Crie um formulário com um campo de texto e um botão de envio.
+9. **Eventos**: Capture eventos de clique e exiba uma mensagem no console.
+10. **Componente Filho**: Crie um componente pai que passe dados para um componente filho.
+
+### Intermediários
+11. **useEffect**: Use o hook `useEffect` para buscar dados de uma API.
+12. **Context API**: Crie um contexto para compartilhar dados entre componentes.
+13. **React Router**: Configure rotas básicas usando `react-router-dom`.
+14. **Rota Dinâmica**: Crie uma rota dinâmica que exiba detalhes com base em um ID.
+15. **Navegação Programática**: Navegue entre rotas programaticamente.
+16. **Formulário Controlado**: Crie um formulário com múltiplos campos controlados.
+17. **Validação de Formulário**: Adicione validação a um formulário.
+18. **Componente de Loading**: Exiba um componente de loading enquanto os dados são carregados.
+19. **Error Boundary**: Crie um Error Boundary para capturar erros em componentes.
+20. **Higher-Order Component (HOC)**: Crie um HOC para adicionar funcionalidades a um componente.
+
+### Avançados
+21. **Redux Básico**: Configure o Redux em uma aplicação React.
+22. **Actions e Reducers**: Crie actions e reducers para gerenciar o estado global.
+23. **Redux Thunk**: Use `redux-thunk` para ações assíncronas.
+24. **Redux Toolkit**: Migre uma aplicação Redux para usar o Redux Toolkit.
+25. **Context API vs Redux**: Compare e implemente a mesma funcionalidade usando Context API e Redux.
+26. **Autenticação com Redux**: Implemente autenticação usando Redux.
+27. **Persistência de Estado**: Use `redux-persist` para persistir o estado no localStorage.
+28. **GraphQL**: Integre uma aplicação React com uma API GraphQL usando Apollo Client.
+29. **WebSockets**: Implemente comunicação em tempo real usando WebSockets.
+30. **SSR (Server-Side Rendering)**: Configure SSR com Next.js.
+
+---
+
+## Desafios de Integração Full Stack
+1. **Integração com Backend**: Conecte uma aplicação React a um backend Java (Spring Boot).
+2. **Autenticação JWT**: Implemente autenticação JWT entre React e Java.
+3. **Upload de Arquivos**: Implemente upload de arquivos no frontend e backend.
+4. **Paginação no Backend**: Implemente paginação no backend e exiba no frontend.
+5. **Filtros e Ordenação**: Integre filtros e ordenação entre frontend e backend.
+6. **WebSockets**: Implemente comunicação em tempo real entre React e Java.
+7. **GraphQL no Backend**: Configure um servidor GraphQL no backend Java.
+8. **Deploy Full Stack**: Faça o deploy de uma aplicação full stack (React + Java).
+9. **Dockerize**: Dockerize a aplicação full stack.
+10. **Testes E2E**: Escreva testes end-to-end usando Cypress.
+
+---
+
+## Como Contribuir
+1. Faça um fork deste repositório.
+2. Crie uma branch para sua feature ou correção: `git checkout -b minha-feature`.
+3. Commit suas mudanças: `git commit -m 'Adicionando novo desafio'`.
+4. Push para a branch: `git push origin minha-feature`.
+5. Abra um pull request.
+
+---
+
+## Recursos Úteis
+- [Documentação do Java](https://docs.oracle.com/javase/8/docs/)
+- [Documentação do Spring Boot](https://spring.io/projects/spring-boot)
+- [Documentação do React](https://reactjs.org/docs/getting-started.html)
+- [Documentação do Redux](https://redux.js.org/)
+- [Documentação do Next.js](https://nextjs.org/docs)
+
+---
+
+**Nota**: Sinta-se à vontade para adicionar mais desafios, melhorar os existentes ou sugerir novas ideias! 🚀
